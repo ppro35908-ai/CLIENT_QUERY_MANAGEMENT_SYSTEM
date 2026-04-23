@@ -14,3 +14,8 @@ Python
 PostgreSQL
 Streamlit
 Libraries:Pandas, datetime, psycopg2
+
+##Project Guidelines
+main.py  #Entry point
+client.py #client-related function
+support.py #Support/admin logic
